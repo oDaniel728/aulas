@@ -87,3 +87,9 @@ _Caminhada rápida da pré-história até os dias atuais._
     - Urbanização.
 
 <image src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.dDXzcvQ4Oc9kOMEyBGHEMgHaE6%3Fpid%3DApi&f=1&ipt=38bddbc5a2865fca69303441205e1dc25ba0d89fe3770cedc70de015ecddfbac&ipo=images' alt='Sociedade neolítica'/>
+
+> [WARNING!]  
+> Falta de informação em:  
+>   1. Mundo Feudal; 
+>   2. Pré-Capitalismo;
+>   3. Revolução Industrial;
