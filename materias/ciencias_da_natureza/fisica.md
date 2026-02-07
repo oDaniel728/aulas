@@ -19,19 +19,15 @@
 - Mede o grau de _"agitação"_ em um sistema.
 - Está associado a variação da energia interna do sistema.
 
-<div style='margin: 0 30%; text-align: center; border: 1px solid; padding: 10px 0 5px 0;'>
-    <img src="https://latex.codecogs.com/svg.image?\large\color{white} \text{temperatura} \neq \text{calor}" />
-</div>
+<img src="https://latex.codecogs.com/svg.image?\large\color{white} \text{temperatura} \neq \text{calor}" />
 
 #### Calor
 - É a energia que transita de corpo ao outro.
 - Flui espontâneamente do corpo com maior energia até o corpo com menor energia.
-    ![a --(q)-> b](../../images/fs1.png)
 
+![a --(q)-> b](../../images/fs11.png)
 
-<div style='margin: 0 30%; text-align: center; border: 1px solid; padding: 10px 0 5px 0;'>
-    <img src="https://latex.codecogs.com/svg.image?\large\color{white} T_{A} > T_{B}" />
-</div>
+<img src="https://latex.codecogs.com/svg.image?\large\color{white} T_{A} > T_{B}" />
 
 #### Equilíbrio Térmico
 - Quando dois corpos se encostam e logo ficam com a mesma temperatura.
