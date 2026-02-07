@@ -66,11 +66,11 @@ Representação básica
 
 ![](https://latex.codecogs.com/svg.image?\large\color{white}\frac{\theta\&space;t-T_{0}}{\Delta\&space;T})
 
-![]([https://latex.codecogs.com/svg.image?\large\color{white}\theta](https://latex.codecogs.com/svg.image?\large\color{white}\theta) t) : escala de sua escolha
+![](https://latex.codecogs.com/svg.image?\large\color{white}\theta&space;t) : escala de sua escolha
 
 ![](https://latex.codecogs.com/svg.image?\large\color{white}T_{0}) : Ponto de solidificação
 
-![]([https://latex.codecogs.com/svg.image?\large\color{white}\Delta](https://latex.codecogs.com/svg.image?\large\color{white}\Delta) T) : Diferença entre o ponto de solidificação e o ponto de ebulição
+![](https://latex.codecogs.com/svg.image?\large\color{white}\Delta&space;T) : Diferença entre o ponto de solidificação e o ponto de ebulição
 
 > Depois devemos equilibrar as expressões.
 
