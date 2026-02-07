@@ -44,3 +44,5 @@
 - O que é ping?
     - É o tempo que leva para enviar e receber uma certificação.
     - Se for 144ms, significa que demorou 72ms pra chegar no servidor, e 72ms pra voltar ao navegador/computador.
+    
+![](../../images/ddjpw14.png)
